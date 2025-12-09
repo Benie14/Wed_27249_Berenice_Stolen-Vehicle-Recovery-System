@@ -1,5 +1,5 @@
 # Wed_27249_Berenice_Stolen-Vehicle-Recovery-System
-Stolen Vehicle Recovery and Alert System
+Stolen Vehicle Recovery System
 1. Project Idea
 Vehicle theft is a significant public safety issue causing financial loss and distress for owners while challenging law enforcement agencies. Many stolen vehicles remain unrecovered due to inefficient reporting and fragmented tracking systems.
 The Stolen Vehicle Recovery and Alert System is a PL/SQL-based solution designed for professional use by law enforcement. The system allows:
